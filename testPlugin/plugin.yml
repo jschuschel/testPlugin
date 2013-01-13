@@ -1,0 +1,5 @@
+name: testPlugin
+main: com.slipvyne.testPlugin.testPlugin
+version: .001
+commands:
+  cubeMake:  {}
